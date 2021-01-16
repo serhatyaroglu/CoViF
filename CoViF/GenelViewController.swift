@@ -7,5 +7,5 @@
 
 import Foundation
 class serhat   {
-    
+    let serhat = 0
 }
