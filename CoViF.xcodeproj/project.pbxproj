@@ -15,6 +15,8 @@
 		79A1F5A025B2F75900583621 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79A1F59E25B2F75900583621 /* LaunchScreen.storyboard */; };
 		79A1F5AB25B2F75900583621 /* CoViFTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A1F5AA25B2F75900583621 /* CoViFTests.swift */; };
 		79A1F5B625B2F75900583621 /* CoViFUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A1F5B525B2F75900583621 /* CoViFUITests.swift */; };
+		79A1F5C725B2F8E200583621 /* GenelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A1F5C625B2F8E200583621 /* GenelViewController.swift */; };
+		79A1F5CC25B2F8F500583621 /* GunlukViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A1F5CB25B2F8F500583621 /* GunlukViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		79A1F5B125B2F75900583621 /* CoViFUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoViFUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79A1F5B525B2F75900583621 /* CoViFUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoViFUITests.swift; sourceTree = "<group>"; };
 		79A1F5B725B2F75900583621 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79A1F5C625B2F8E200583621 /* GenelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenelViewController.swift; sourceTree = "<group>"; };
+		79A1F5CB25B2F8F500583621 /* GunlukViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GunlukViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				79A1F59525B2F75700583621 /* SceneDelegate.swift */,
 				79A1F59725B2F75700583621 /* ViewController.swift */,
 				79A1F59925B2F75700583621 /* Main.storyboard */,
+				79A1F5C625B2F8E200583621 /* GenelViewController.swift */,
+				79A1F5CB25B2F8F500583621 /* GunlukViewController.swift */,
 				79A1F59C25B2F75900583621 /* Assets.xcassets */,
 				79A1F59E25B2F75900583621 /* LaunchScreen.storyboard */,
 				79A1F5A125B2F75900583621 /* Info.plist */,
@@ -260,6 +266,8 @@
 			files = (
 				79A1F59825B2F75700583621 /* ViewController.swift in Sources */,
 				79A1F59425B2F75700583621 /* AppDelegate.swift in Sources */,
+				79A1F5C725B2F8E200583621 /* GenelViewController.swift in Sources */,
+				79A1F5CC25B2F8F500583621 /* GunlukViewController.swift in Sources */,
 				79A1F59625B2F75700583621 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
